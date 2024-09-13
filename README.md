@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwadh21
-- 👀 I’m interested in ...cybsersecurity
+- 👀 I’m interested in ...cybsersecurity and software testing 
 - 🌱 I’m currently learning ... Digital forensics
 - 💞️ I’m looking to collaborate on ...: Interested in network security collaborations
 - 📫 How to reach me ... venkateshnalla21@gmail.com
